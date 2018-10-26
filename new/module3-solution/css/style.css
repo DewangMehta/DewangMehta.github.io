@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-    background-color: pink;
+    background-color: #122332;
     border-radius: 0;
     border: 0;
 }
@@ -21,7 +21,7 @@ body {
 }
 .navbar-brand h1 { /* Restaurant name */
     font-family: 'Lora', serif;
-    color: black;
+    color: #111111;
     font-size: 1.7em;
     text-transform: uppercase;
     position: relative;
@@ -41,7 +41,7 @@ body {
     text-align: center;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #61122f;
+    border: 1px solid black;
 }
 .navbar-header button.navbar-toggle {
     clear: both;
@@ -58,7 +58,7 @@ body {
 /* HOME PAGE */
 
 #home-tiles .item-text {
-    background: #5e5e5e;
+    background: #123456;
     padding: 10px;
 }
 
